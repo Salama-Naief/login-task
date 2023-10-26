@@ -15,7 +15,7 @@ export const Login = () => {
          
         mx-auto shadowBox
 
-        w-1/2 
+         
         rounded-lg p-10
         xl:w-2/5
         lg:w-1/2
